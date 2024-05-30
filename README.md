@@ -37,3 +37,5 @@ would expect?
 7) Enhance the model in question 4 to examine if there are differences in the estimates of
 the Kuznets curve across regions within India. The definition of the states belonging
 to each region are given by RBI – linked here.
+
+Note: Some of the code in the last part needs fixing
